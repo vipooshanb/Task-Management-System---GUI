@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Read books",
+        "description": "first 2 chapters",
+        "priority": "medium",
+        "due_date": "02.05.2025"
+    },
+    {
+        "name": "Gym Workout",
+        "description": "Full-Body workout",
+        "priority": "low",
+        "due_date": "05.05.2025"
+    },
+    {
+        "name": "Finish Assignment",
+        "description": "tkinter python",
+        "priority": "high",
+        "due_date": "21.04.2025"
+    },
+    {
+        "name": "Team meeting",
+        "description": "attend the weekly",
+        "priority": "medium",
+        "due_date": "25.05.2025"
+    },
+    {
+        "name": "study DSA",
+        "description": "Revise chapters",
+        "priority": "low",
+        "due_date": "21.05.2025"
+    }
+]
